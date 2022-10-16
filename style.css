@@ -1,0 +1,78 @@
+body{
+  background-image: url(./images/theatre.jpg);
+  background-repeat: none;
+  background-size: cover;
+}
+#text{
+  width: 50%;
+  padding: 0.5%;
+  border: black;
+}
+img{
+  margin-left: 39%;
+}
+.title{
+  font-size: 3rem;
+}
+#text{
+  margin-left: 22%;
+  width: 50%;
+  /* border-radius: 5px; */
+  padding: 1.5%;
+  /* border: black; */
+  font-size: 15px;
+}
+#button{
+  border-radius: 5px;
+  padding: 0.5%;
+  /* border: white; */
+  width: 40%;
+  margin: 1%;
+  margin-left: 28%;
+  padding: 1%;
+  border-radius: 102px;
+  background: black;
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+  word-spacing: 2%;
+  letter-spacing: 2px;
+  background-color: transparent;
+  border: #ffffff;
+  border: solid 1px;
+}
+
+h1{
+  font-size: 14px;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+h2{
+  font-size: 18px;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h3{
+  font-size: 14px;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h4{
+
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 30%;
+  margin-left: 35%;
+}
